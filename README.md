@@ -7,6 +7,19 @@
 - 😄 English nickname's `kozy`, pronouns same as `cozy`. Japanese nickname's `kekyo` (I feel it pronounce's bit difficult :)
 - ⚡ Fun fact: A bicycle rider. I'm good at long riding, maybe called `randonner`.
 
+Hi! my name is Kouji Matsui. Please call me kozy (pronounce same as `cozy`)
+I'm an functional runtime engineer.
+
+What are `functional` and `runtime`? In my reason:
+
+* Functional: Functional language design on computers. It means my own doing (progressing) research project, it will open and turn to OSS!
+* Runtime: Runtime structure and design on computers. It's already opened [IL2C.](https://github.com/kekyo/IL2C)
+
+These projects are too big in my mind and I can design and develop only in my free time.
+I'm verry happy if you make a bit sponsorship :)
+
+Far future, I will change and work only my projects if receive many patrons!
+
 ----
 
 # Active/showcase projects
