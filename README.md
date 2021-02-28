@@ -1,7 +1,7 @@
 ![kekyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekyo&show_icons=true&theme=default)
 
 - 🔭 I’m a self-employed `Functional runtime engineer`.
-- 🌱 I’m a master's degree student.
+- 🌱 I’m a master of Arts degree.
 - 👯 I’m looking for a job.
 - 📫 How to reach me: Twitter @kozy_kekyo (English) / @kekyo2 (Japanese).
 - 😄 English nickname's `kozy`, pronouns same as `cozy`. Japanese nickname's `kekyo` (I feel it pronounce's bit difficult :)
