@@ -25,18 +25,20 @@ Far future, I will change and work only my projects if receive many patrons!
 # Active/showcase projects
 
 [![Favalon](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Favalon)](https://github.com/kekyo/Favalon)
+[![TypeInferencer](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=TypeInferencer)](https://github.com/kekyo/TypeInferencer)
+
 [![IL2C](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=IL2C)](https://github.com/kekyo/IL2C)
-
 [![RelaxVersioner](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.RelaxVersioner)](https://github.com/kekyo/CenterCLR.RelaxVersioner)
+
 [![Epoxy](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Epoxy)](https://github.com/kekyo/Epoxy)
-
 [![FusionTasks](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FSharp.Control.FusionTasks)](https://github.com/kekyo/FSharp.Control.FusionTasks)
+
 [![NamingFormatter](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.NamingFormatter)](https://github.com/kekyo/CenterCLR.NamingFormatter)
-
 [![MeCab.DotNet](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MeCab.DotNet)](https://github.com/kekyo/MeCab.DotNet)
-[![fdk-aac-win32-builder](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=fdk-aac-win32-builder)](https://github.com/kekyo/fdk-aac-win32-builder)
 
+[![fdk-aac-win32-builder](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=fdk-aac-win32-builder)](https://github.com/kekyo/fdk-aac-win32-builder)
 [![SushiRotator](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.SushiRotator)](https://github.com/kekyo/CenterCLR.SushiRotator)
+
 [![fscx](https://github-readme-stats.vercel.app/api/pin/?username=fscx-projects&repo=fscx)](https://github.com/fscx-projects/fscx)
 
 ----
