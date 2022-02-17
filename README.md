@@ -40,9 +40,6 @@ Far future, I will change and work only my projects if receive many patrons!
 [![fscx](https://github-readme-stats.vercel.app/api/pin/?username=fscx-projects&repo=fscx&theme=github_dark)](https://github.com/fscx-projects/fscx)
 
 [![fdk-aac-win32-builder](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=fdk-aac-win32-builder&theme=github_dark)](https://github.com/kekyo/fdk-aac-win32-builder)
-[![SushiRotator](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.SushiRotator&theme=github_dark)](https://github.com/kekyo/CenterCLR.SushiRotator)
-
-[![Outernet Explorer](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=OuternetExplorer&theme=github_dark)](https://github.com/kekyo/OuternetExplorer)
 
 ----
 
@@ -78,6 +75,13 @@ Far future, I will change and work only my projects if receive many patrons!
 
 [![future-promise](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=future-promise&theme=github_dark)](https://github.com/kekyo/future-promise)
 [![SynchContextSample](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=SynchContextSample&theme=github_dark)](https://github.com/kekyo/SynchContextSample)
+
+----
+
+# Kinda joke
+
+[![SushiRotator](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.SushiRotator&theme=github_dark)](https://github.com/kekyo/CenterCLR.SushiRotator)
+[![Outernet Explorer](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=OuternetExplorer&theme=github_dark)](https://github.com/kekyo/OuternetExplorer)
 
 ----
 
