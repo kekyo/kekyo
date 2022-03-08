@@ -51,6 +51,8 @@ Far future, I will change and work only my projects if receive many patrons!
 [![PowerPlay Zipper](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=PowerPlayZipper&theme=github_dark)](https://github.com/kekyo/PowerPlayZipper)
 [![Fluorite](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Fluorite&theme=github_dark)](https://github.com/kekyo/Fluorite)
 
+[![FlashCap](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FlashCap&theme=github_dark)](https://github.com/kekyo/FlashCap)
+
 ----
 
 # IoT things
