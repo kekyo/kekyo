@@ -52,6 +52,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![Fluorite](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Fluorite&theme=github_dark)](https://github.com/kekyo/Fluorite)
 
 [![FlashCap](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FlashCap&theme=github_dark)](https://github.com/kekyo/FlashCap)
+[![DupeNukem](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=DupeNukem&theme=github_dark)](https://github.com/kekyo/DupeNukem)
 
 ----
 
