@@ -85,6 +85,8 @@ Far future, I will change and work only my projects if receive many patrons!
 [![future-promise](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=future-promise&theme=github_dark)](https://github.com/kekyo/future-promise)
 [![SynchContextSample](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=SynchContextSample&theme=github_dark)](https://github.com/kekyo/SynchContextSample)
 
+[![SkiaImageView.Wpf](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=SkiaImageView.Wpf&theme=github_dark)](https://github.com/kekyo/SkiaImageView.Wpf)
+
 ----
 
 # Kinda joke
