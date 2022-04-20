@@ -31,15 +31,15 @@ Far future, I will change and work only my projects if receive many patrons!
 [![RelaxVersioner](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.RelaxVersioner&theme=github_dark)](https://github.com/kekyo/CenterCLR.RelaxVersioner)
 
 [![Epoxy](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Epoxy&theme=github_dark)](https://github.com/kekyo/Epoxy)
-[![FusionTasks](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FSharp.Control.FusionTasks&theme=github_dark)](https://github.com/kekyo/FSharp.Control.FusionTasks)
+[![FlashCap](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FlashCap&theme=github_dark)](https://github.com/kekyo/FlashCap)
 
+[![FusionTasks](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FSharp.Control.FusionTasks&theme=github_dark)](https://github.com/kekyo/FSharp.Control.FusionTasks)
 [![NamingFormatter](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.NamingFormatter&theme=github_dark)](https://github.com/kekyo/CenterCLR.NamingFormatter)
-[![MeCab.DotNet](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MeCab.DotNet&theme=github_dark)](https://github.com/kekyo/MeCab.DotNet)
 
 [![TypeInferencer](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=TypeInferencer&theme=github_dark)](https://github.com/kekyo/TypeInferencer)
 [![fscx](https://github-readme-stats.vercel.app/api/pin/?username=fscx-projects&repo=fscx&theme=github_dark)](https://github.com/fscx-projects/fscx)
 
-[![fdk-aac-win32-builder](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=fdk-aac-win32-builder&theme=github_dark)](https://github.com/kekyo/fdk-aac-win32-builder)
+[![MeCab.DotNet](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MeCab.DotNet&theme=github_dark)](https://github.com/kekyo/MeCab.DotNet)
 
 ----
 
@@ -51,8 +51,16 @@ Far future, I will change and work only my projects if receive many patrons!
 [![PowerPlay Zipper](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=PowerPlayZipper&theme=github_dark)](https://github.com/kekyo/PowerPlayZipper)
 [![Fluorite](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Fluorite&theme=github_dark)](https://github.com/kekyo/Fluorite)
 
-[![FlashCap](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FlashCap&theme=github_dark)](https://github.com/kekyo/FlashCap)
 [![DupeNukem](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=DupeNukem&theme=github_dark)](https://github.com/kekyo/DupeNukem)
+
+----
+
+# Small scripts
+
+[![fdk-aac-win32-builder](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=fdk-aac-win32-builder&theme=github_dark)](https://github.com/kekyo/fdk-aac-win32-builder)
+[![qemu-debian-mipsel-setup](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=qemu-debian-mipsel-setup&theme=github_dark)](https://github.com/kekyo/qemu-debian-mipsel-setup)
+
+[![gcc-toolchain](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=gcc-toolchain&theme=github_dark)](https://github.com/kekyo/gcc-toolchain)
 
 ----
 
@@ -69,8 +77,6 @@ Far future, I will change and work only my projects if receive many patrons!
 
 [![Spartan2Bone](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Spartan2Bone&theme=github_dark)](https://github.com/kekyo/Spartan2Bone)
 [![PGA44DIP44](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=PGA44DIP44&theme=github_dark)](https://github.com/kekyo/PGA44DIP44)
-
-[![gcc-toolchain](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=gcc-toolchain&theme=github_dark)](https://github.com/kekyo/gcc-toolchain)
 
 ----
 
