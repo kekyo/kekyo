@@ -66,6 +66,8 @@ Far future, I will change and work only my projects if receive many patrons!
 [![gcc-toolchain](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=gcc-toolchain&theme=github_dark)](https://github.com/kekyo/gcc-toolchain)
 [![ga_ubuntu_runner](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ga_ubuntu_runner&theme=github_dark)](https://github.com/kekyo/ga_ubuntu_runner)
 
+[![spigot-builder](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=spigot-builder&theme=github_dark)](https://github.com/kekyo/spigot-builder)
+
 ----
 
 # IoT things
