@@ -6,7 +6,7 @@
 - 🔭 I’m a self-employed `Functional runtime engineer`.
 - 🌱 I’m a Master of Arts and Science degree.
 - 👯 I’m looking for a job.
-- 📫 How to reach me: Twitter @kozy_kekyo (English) / @kekyo2 (Japanese).
+- 📫 How to reach me: Twitter @kozy_kekyo (English) / Mastodon @kekyo@mastodon.cloud (Japanese).
 - 😄 English nickname's `kozy`, pronouns same as `cozy`. Japanese nickname's `kekyo` (I feel it pronounce's bit difficult :)
 - ⚡ Fun fact: A bicycle rider. I'm good at long riding, maybe called `randonner`.
 
