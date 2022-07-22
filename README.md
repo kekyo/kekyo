@@ -42,6 +42,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![fscx](https://github-readme-stats.vercel.app/api/pin/?username=fscx-projects&repo=fscx&theme=github_dark)](https://github.com/fscx-projects/fscx)
 [![MeCab.DotNet](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MeCab.DotNet&theme=github_dark)](https://github.com/kekyo/MeCab.DotNet)
 
+[![DupeNukem](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=DupeNukem&theme=github_dark)](https://github.com/kekyo/DupeNukem)
 [![NamingFormatter](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.NamingFormatter&theme=github_dark)](https://github.com/kekyo/CenterCLR.NamingFormatter)
 
 ----
@@ -54,7 +55,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![PowerPlay Zipper](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=PowerPlayZipper&theme=github_dark)](https://github.com/kekyo/PowerPlayZipper)
 [![Fluorite](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Fluorite&theme=github_dark)](https://github.com/kekyo/Fluorite)
 
-[![DupeNukem](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=DupeNukem&theme=github_dark)](https://github.com/kekyo/DupeNukem)
+[![MarkTheRipper](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MarkTheRipper&theme=github_dark)](https://github.com/kekyo/MarkTheRipper)
 
 ----
 
