@@ -33,17 +33,17 @@ Far future, I will change and work only my projects if receive many patrons!
 [![Epoxy](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Epoxy&theme=github_dark)](https://github.com/kekyo/Epoxy)
 [![FlashCap](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FlashCap&theme=github_dark)](https://github.com/kekyo/FlashCap)
 
-[![FusionTasks](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FSharp.Control.FusionTasks&theme=github_dark)](https://github.com/kekyo/FSharp.Control.FusionTasks)
+[![DupeNukem](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=DupeNukem&theme=github_dark)](https://github.com/kekyo/DupeNukem)
 [![TypeInferencer](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=TypeInferencer&theme=github_dark)](https://github.com/kekyo/TypeInferencer)
 
 [![ILCompose](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ILCompose&theme=github_dark)](https://github.com/kekyo/ILCompose)
 [![ILAsm.Managed](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ILAsm.Managed&theme=github_dark)](https://github.com/kekyo/ILAsm.Managed)
 
-[![fscx](https://github-readme-stats.vercel.app/api/pin/?username=fscx-projects&repo=fscx&theme=github_dark)](https://github.com/fscx-projects/fscx)
 [![MeCab.DotNet](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MeCab.DotNet&theme=github_dark)](https://github.com/kekyo/MeCab.DotNet)
-
-[![DupeNukem](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=DupeNukem&theme=github_dark)](https://github.com/kekyo/DupeNukem)
 [![NamingFormatter](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.NamingFormatter&theme=github_dark)](https://github.com/kekyo/CenterCLR.NamingFormatter)
+
+[![fscx](https://github-readme-stats.vercel.app/api/pin/?username=fscx-projects&repo=fscx&theme=github_dark)](https://github.com/fscx-projects/fscx)
+[![FusionTasks](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FSharp.Control.FusionTasks&theme=github_dark)](https://github.com/kekyo/FSharp.Control.FusionTasks)
 
 ----
 
