@@ -56,6 +56,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![Fluorite](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Fluorite&theme=github_dark)](https://github.com/kekyo/Fluorite)
 
 [![MarkTheRipper](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MarkTheRipper&theme=github_dark)](https://github.com/kekyo/MarkTheRipper)
+[![Marionetta](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Marionetta&theme=github_dark)](https://github.com/kekyo/Marionetta)
 
 ----
 
