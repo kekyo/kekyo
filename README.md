@@ -42,6 +42,8 @@ Far future, I will change and work only my projects if receive many patrons!
 [![MeCab.DotNet](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MeCab.DotNet&theme=github_dark)](https://github.com/kekyo/MeCab.DotNet)
 [![NamingFormatter](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.NamingFormatter&theme=github_dark)](https://github.com/kekyo/CenterCLR.NamingFormatter)
 
+[![Marionetta](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Marionetta&theme=github_dark)](https://github.com/kekyo/Marionetta)
+
 [![fscx](https://github-readme-stats.vercel.app/api/pin/?username=fscx-projects&repo=fscx&theme=github_dark)](https://github.com/fscx-projects/fscx)
 [![FusionTasks](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FSharp.Control.FusionTasks&theme=github_dark)](https://github.com/kekyo/FSharp.Control.FusionTasks)
 
@@ -56,7 +58,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![Fluorite](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Fluorite&theme=github_dark)](https://github.com/kekyo/Fluorite)
 
 [![MarkTheRipper](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MarkTheRipper&theme=github_dark)](https://github.com/kekyo/MarkTheRipper)
-[![Marionetta](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Marionetta&theme=github_dark)](https://github.com/kekyo/Marionetta)
+[![Lepracaun](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Lepracaun&theme=github_dark)](https://github.com/kekyo/Lepracaun)
 
 ----
 
@@ -91,8 +93,6 @@ Far future, I will change and work only my projects if receive many patrons!
 # Point implementation
 
 [![future-promise](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=future-promise&theme=github_dark)](https://github.com/kekyo/future-promise)
-[![SynchContextSample](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=SynchContextSample&theme=github_dark)](https://github.com/kekyo/SynchContextSample)
-
 [![SkiaImageView.Wpf](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=SkiaImageView.Wpf&theme=github_dark)](https://github.com/kekyo/SkiaImageView.Wpf)
 
 ----
@@ -120,3 +120,4 @@ Far future, I will change and work only my projects if receive many patrons!
 [![TortoiseMergePortable](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=TortoiseMergePortable&theme=github_dark)](https://github.com/kekyo/TortoiseMergePortable)
 
 [![JenkinsBuildNotifier](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=JenkinsBuildNotifier&theme=github_dark)](https://github.com/kekyo/JenkinsBuildNotifier)
+[![SynchContextSample](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=SynchContextSample&theme=github_dark)](https://github.com/kekyo/SynchContextSample)
