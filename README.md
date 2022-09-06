@@ -88,6 +88,9 @@ Far future, I will change and work only my projects if receive many patrons!
 [![Spartan2Bone](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Spartan2Bone&theme=github_dark)](https://github.com/kekyo/Spartan2Bone)
 [![PGA44DIP44](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=PGA44DIP44&theme=github_dark)](https://github.com/kekyo/PGA44DIP44)
 
+[![esp-wrover-kit-lcd-demo](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=esp-wrover-kit-lcd-demo&theme=github_dark)](https://github.com/kekyo/esp-wrover-kit-lcd-demo)
+
+
 ----
 
 # Point implementation
