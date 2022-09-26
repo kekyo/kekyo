@@ -62,7 +62,7 @@ Far future, I will change and work only my projects if receive many patrons!
 
 ----
 
-# Small scripts
+# Small scripts / tools
 
 [![fdk-aac-win32-builder](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=fdk-aac-win32-builder&theme=github_dark)](https://github.com/kekyo/fdk-aac-win32-builder)
 [![qemu-debian-mipsel-setup](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=qemu-debian-mipsel-setup&theme=github_dark)](https://github.com/kekyo/qemu-debian-mipsel-setup)
@@ -71,6 +71,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![ga_ubuntu_runner](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ga_ubuntu_runner&theme=github_dark)](https://github.com/kekyo/ga_ubuntu_runner)
 
 [![spigot-builder](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=spigot-builder&theme=github_dark)](https://github.com/kekyo/spigot-builder)
+[![NuGetBulkDownloader](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=NuGetBulkDownloader&theme=github_dark)](https://github.com/kekyo/NuGetBulkDownloader)
 
 ----
 
