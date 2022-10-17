@@ -43,6 +43,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![NamingFormatter](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=CenterCLR.NamingFormatter&theme=github_dark)](https://github.com/kekyo/CenterCLR.NamingFormatter)
 
 [![Marionetta](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Marionetta&theme=github_dark)](https://github.com/kekyo/Marionetta)
+[![ILRepack.FullAuto](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ILRepack.FullAuto&theme=github_dark)](https://github.com/kekyo/ILRepack.FullAuto)
 
 [![fscx](https://github-readme-stats.vercel.app/api/pin/?username=fscx-projects&repo=fscx&theme=github_dark)](https://github.com/fscx-projects/fscx)
 [![FusionTasks](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=FSharp.Control.FusionTasks&theme=github_dark)](https://github.com/kekyo/FSharp.Control.FusionTasks)
