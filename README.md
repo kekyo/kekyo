@@ -111,6 +111,8 @@ Far future, I will change and work only my projects if receive many patrons!
 
 # Community activities
 
+[![fffsharp-demo-cameraapp](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=fffsharp-demo-cameraapp&theme=github_dark)](https://github.com/kekyo/fffsharp-demo-cameraapp)
+
 [![dotnetconf2019](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=dotnetconf2019&theme=github_dark)](https://github.com/kekyo/dotnetconf2019)
 [![decode2019_CM12](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=decode2019_CM12&theme=github_dark)](https://github.com/kekyo/decode2019_CM12)
 
