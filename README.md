@@ -60,6 +60,8 @@ Far future, I will change and work only my projects if receive many patrons!
 [![MarkTheRipper](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MarkTheRipper&theme=github_dark)](https://github.com/kekyo/MarkTheRipper)
 [![Lepracaun](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Lepracaun&theme=github_dark)](https://github.com/kekyo/Lepracaun)
 
+[![ForestLog](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ForestLog&theme=github_dark)](https://github.com/kekyo/ForestLog)
+
 ----
 
 # Small scripts / tools
