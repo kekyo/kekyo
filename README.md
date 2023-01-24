@@ -63,6 +63,8 @@ Far future, I will change and work only my projects if receive many patrons!
 [![ForestLog](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ForestLog&theme=github_dark)](https://github.com/kekyo/ForestLog)
 [![Compat](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Compat&theme=github_dark)](https://github.com/kekyo/Compat)
 
+[![chibias-cil](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=chibias-cil&theme=github_dark)](https://github.com/kekyo/chibias-cil)
+
 ----
 
 # Small scripts / tools
