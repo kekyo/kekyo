@@ -46,6 +46,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![ILRepack.FullAuto](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ILRepack.FullAuto&theme=github_dark)](https://github.com/kekyo/ILRepack.FullAuto)
 
 [![SkiaImageView](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=SkiaImageView&theme=github_dark)](https://github.com/kekyo/SkiaImageView)
+[![chibias-cil](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=chibias-cil&theme=github_dark)](https://github.com/kekyo/chibias-cil)
 
 ----
 
@@ -62,8 +63,6 @@ Far future, I will change and work only my projects if receive many patrons!
 
 [![ForestLog](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ForestLog&theme=github_dark)](https://github.com/kekyo/ForestLog)
 [![Compat](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=Compat&theme=github_dark)](https://github.com/kekyo/Compat)
-
-[![chibias-cil](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=chibias-cil&theme=github_dark)](https://github.com/kekyo/chibias-cil)
 
 ----
 
