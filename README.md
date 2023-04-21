@@ -40,6 +40,7 @@ Far future, I will change and work only my projects if receive many patrons!
 [![ILAsm.Managed](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ILAsm.Managed&theme=github_dark)](https://github.com/kekyo/ILAsm.Managed)
 
 [![ILRepack.FullAuto](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ILRepack.FullAuto&theme=github_dark)](https://github.com/kekyo/ILRepack.FullAuto)
+[![GitReader](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=GitReader&theme=github_dark)](https://github.com/kekyo/GitReader)
 
 [![ForestLog](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=ForestLog&theme=github_dark)](https://github.com/kekyo/ForestLog)
 [![MeCab.DotNet](https://github-readme-stats.vercel.app/api/pin/?username=kekyo&repo=MeCab.DotNet&theme=github_dark)](https://github.com/kekyo/MeCab.DotNet)
