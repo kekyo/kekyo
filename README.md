@@ -251,9 +251,6 @@ I'm an functional runtime engineer.
 </p>
 
 <p>
-  <a href="https://github.com/kekyo/decode2019_CM12">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=decode2019_CM12&theme=github_dark&bg_color=00000000" />
-  </a>
   <a href="https://github.com/kekyo/Nagoya.LifelongLearningCenter">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=Nagoya.LifelongLearningCenter&theme=github_dark&bg_color=00000000" />
   </a>
