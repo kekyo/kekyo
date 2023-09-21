@@ -95,6 +95,9 @@ I'm an functional runtime engineer.
   <a href="https://github.com/kekyo/Lepracaun">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=Lepracaun&theme=github_dark&bg_color=00000000" />
   </a>
+  <a href="https://github.com/kekyo/AspNetCore.JsonStreamer">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=AspNetCore.JsonStreamer&theme=github_dark&bg_color=00000000" />
+  </a>
 </p>
 
 ----
