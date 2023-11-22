@@ -38,8 +38,8 @@ I'm an functional runtime engineer.
 </p>
 
 <p>
-  <a href="https://github.com/kekyo/DupeNukem">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=DupeNukem&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/GitReader">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=GitReader&theme=github_dark&bg_color=00000000" />
   </a>
   <a href="https://github.com/kekyo/TypeInferencer">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=TypeInferencer&theme=github_dark&bg_color=00000000" />
@@ -59,17 +59,17 @@ I'm an functional runtime engineer.
   <a href="https://github.com/kekyo/ILRepack.FullAuto">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=ILRepack.FullAuto&theme=github_dark&bg_color=00000000" />
   </a>
-  <a href="https://github.com/kekyo/GitReader">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=GitReader&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/MeCab.DotNet">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=MeCab.DotNet&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
 <p>
+  <a href="https://github.com/kekyo/DupeNukem">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=DupeNukem&theme=github_dark&bg_color=00000000" />
+  </a>
   <a href="https://github.com/kekyo/ForestLog">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=ForestLog&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/MeCab.DotNet">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=MeCab.DotNet&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
@@ -173,8 +173,8 @@ I'm an functional runtime engineer.
 </p>
 
 <p>
-  <a href="https://github.com/kekyo/EaglePanelizer">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=EaglePanelizer&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/Pixy">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=Pixy&theme=github_dark&bg_color=00000000" />
   </a>
   <a href="https://github.com/kekyo/ExtremeFeedbackDevice">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=ExtremeFeedbackDevice&theme=github_dark&bg_color=00000000" />
@@ -202,6 +202,9 @@ I'm an functional runtime engineer.
 <p>
   <a href="https://github.com/kekyo/esp-wrover-kit-lcd-demo">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=esp-wrover-kit-lcd-demo&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/EaglePanelizer">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=EaglePanelizer&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
