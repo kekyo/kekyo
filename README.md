@@ -86,8 +86,8 @@ I'm an functional runtime engineer.
   <a href="https://github.com/kekyo/SkiaImageView">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=SkiaImageView&theme=github_dark&bg_color=00000000" />
   </a>
-  <a href="https://github.com/kekyo/chibias-cil">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=chibias-cil&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/chibicc-cil-toolchain">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=chibicc-cil-toolchain&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
