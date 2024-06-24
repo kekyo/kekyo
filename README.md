@@ -100,6 +100,12 @@ I'm an functional runtime engineer.
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/kekyo/MassivePoints">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=MassivePoints&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
 ----
 
 # Conceptual / Early stage
