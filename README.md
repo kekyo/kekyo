@@ -3,7 +3,7 @@
 - 🔭 I’m a self-employed `Functional runtime engineer`.
 - 🌱 I’m a Master of Arts and Science degree.
 - 👯 I’m looking for a job.
-- 📫 How to reach me: Mastodon [@kekyo@mastodon.sdf.org](https://mastodon.sdf.org/@kekyo) (English) / [@kekyo@mastodon.cloud](https://mastodon.cloud/@kekyo) (Japanese) / Twitter @kozy_kekyo (English)
+- 📫 How to reach me in Fediverse: Mastodon [@kekyo@mastodon.sdf.org](https://mastodon.sdf.org/@kekyo) (English) / Misskey [@kekyo@mi.kekyo.net](https://mi.kekyo.net/@kekyo) (Japanese)
 - 😄 English nickname's `kozy`, pronouns same as `cozy`. Japanese nickname's `kekyo` (I feel it pronounce's bit difficult :)
 - ⚡ Fun fact: A bicycle rider. I'm good at long riding, maybe called `randonner`.
 
@@ -23,6 +23,15 @@ I'm an functional runtime engineer.
   <a href="https://github.com/kekyo/IL2C">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=IL2C&theme=github_dark&bg_color=00000000" />
   </a>
+  <a href="https://github.com/kekyo/chibicc-cil-build">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=chibicc-cil-build&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/GitReader">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=GitReader&theme=github_dark&bg_color=00000000" />
+  </a>
   <a href="https://github.com/kekyo/CenterCLR.RelaxVersioner">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=CenterCLR.RelaxVersioner&theme=github_dark&bg_color=00000000" />
   </a>
@@ -38,11 +47,11 @@ I'm an functional runtime engineer.
 </p>
 
 <p>
-  <a href="https://github.com/kekyo/GitReader">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=GitReader&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/AspNetCore.JsonStreamer">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=AspNetCore.JsonStreamer&theme=github_dark&bg_color=00000000" />
   </a>
-  <a href="https://github.com/kekyo/TypeInferencer">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=TypeInferencer&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/MassivePoints">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=MassivePoints&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
@@ -59,8 +68,17 @@ I'm an functional runtime engineer.
   <a href="https://github.com/kekyo/ILRepack.FullAuto">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=ILRepack.FullAuto&theme=github_dark&bg_color=00000000" />
   </a>
+  <a href="https://github.com/kekyo/ForestLog">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=ForestLog&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/kekyo/MeCab.DotNet">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=MeCab.DotNet&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/TypeInferencer">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=TypeInferencer&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
@@ -68,26 +86,8 @@ I'm an functional runtime engineer.
   <a href="https://github.com/kekyo/DupeNukem">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=DupeNukem&theme=github_dark&bg_color=00000000" />
   </a>
-  <a href="https://github.com/kekyo/ForestLog">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=ForestLog&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/CenterCLR.NamingFormatter">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=CenterCLR.NamingFormatter&theme=github_dark&bg_color=00000000" />
-  </a>
   <a href="https://github.com/kekyo/Marionetta">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=Marionetta&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/SkiaImageView">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=SkiaImageView&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/chibicc-cil-toolchain">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=chibicc-cil-toolchain&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
@@ -95,14 +95,14 @@ I'm an functional runtime engineer.
   <a href="https://github.com/kekyo/Lepracaun">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=Lepracaun&theme=github_dark&bg_color=00000000" />
   </a>
-  <a href="https://github.com/kekyo/AspNetCore.JsonStreamer">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=AspNetCore.JsonStreamer&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/CenterCLR.NamingFormatter">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=CenterCLR.NamingFormatter&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/kekyo/MassivePoints">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=MassivePoints&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/SkiaImageView">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=SkiaImageView&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
@@ -170,15 +170,6 @@ I'm an functional runtime engineer.
 # IoT / Hardware design
 
 <p>
-  <a href="https://github.com/kekyo/PedestrianController">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=PedestrianController&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/BrainPadWiFi">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=BrainPadWiFi&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
   <a href="https://github.com/kekyo/Pixy">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=Pixy&theme=github_dark&bg_color=00000000" />
   </a>
@@ -188,20 +179,29 @@ I'm an functional runtime engineer.
 </p>
 
 <p>
-  <a href="https://github.com/kekyo/MeowLTE">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=MeowLTE&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/OpenOCDonMinGW">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=OpenOCDonMinGW&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
   <a href="https://github.com/kekyo/Spartan2Bone">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=Spartan2Bone&theme=github_dark&bg_color=00000000" />
   </a>
   <a href="https://github.com/kekyo/PGA44DIP44">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=PGA44DIP44&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/PedestrianController">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=PedestrianController&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/BrainPadWiFi">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=BrainPadWiFi&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/MeowLTE">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=MeowLTE&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/OpenOCDonMinGW">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=OpenOCDonMinGW&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
