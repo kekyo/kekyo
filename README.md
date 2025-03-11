@@ -154,8 +154,8 @@ I'm an functional runtime engineer.
   <a href="https://github.com/kekyo/gcc-toolchain">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=gcc-toolchain&theme=github_dark&bg_color=00000000" />
   </a>
-  <a href="https://github.com/kekyo/ga_ubuntu_runner">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=ga_ubuntu_runner&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/ga_runner">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=ga_runner&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
