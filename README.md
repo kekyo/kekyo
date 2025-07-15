@@ -10,11 +10,6 @@
 Hi! my name is Kouji Matsui. Please call me kozy (pronounce same as `cozy`)
 I'm an functional runtime engineer.
 
-<p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kekyo&show_icons=true&theme=github_dark&bg_color=00000000&card_width=350&line_height=30&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&text_bold=false&hide=contribs" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekyo&layout=donut&theme=github_dark&bg_color=00000000&hide_title=true&size_weight=0.2&count_weight=0.8" />
-</p>
-
 ----
 
 # Active/showcase projects (TypeScript)
@@ -25,6 +20,15 @@ I'm an functional runtime engineer.
   </a>
   <a href="https://github.com/kekyo/async-primitives">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=async-primitives&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/sublimity-rpc">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=sublimity-rpc&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/screw-up">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=screw-up&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
