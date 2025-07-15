@@ -10,6 +10,8 @@
 Hi! my name is Kouji Matsui. Please call me kozy (pronounce same as `cozy`)
 I'm an functional runtime engineer.
 
+Most of the showcases below were created because they were needed for paid work.
+
 ----
 
 # Active/showcase projects (TypeScript)
