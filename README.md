@@ -43,6 +43,15 @@ Most of the showcases below were created because they were needed for paid work.
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/kekyo/nuget-server">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=nuget-server&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/prettier-max">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=prettier-max&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
 # Active/showcase projects (.NET)
 
 <p>
