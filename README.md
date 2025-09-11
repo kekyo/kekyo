@@ -1,5 +1,7 @@
 # Kouji Matsui (kozy_kekyo)
 
+<img width="120" height="120" alt="milky-way-red-120" src="https://github.com/user-attachments/assets/d83c2b48-3c0c-4c57-8a60-29e607e8c150" />
+
 Hi! my name is Kouji Matsui. Please call me kozy (pronounce same as `cozy`)
 I'm an functional runtime engineer.
 
