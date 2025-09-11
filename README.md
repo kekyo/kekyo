@@ -4,8 +4,9 @@ Hi! my name is Kouji Matsui. Please call me kozy (pronounce same as `cozy`)
 I'm an functional runtime engineer.
 
 I spend most of my waking hours living within code spaces. Right now, I'm wandering through the world of TypeScript.
+That said, I'm actually folding origami with backend systems, language frameworks, and library design—not UI work.
 
-Most of the showcases below were created because they were needed for paid work.
+Most of the showcases below were created because they were needed for (closed) paid work.
 
 ----
 
