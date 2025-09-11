@@ -1,14 +1,9 @@
 # Kouji Matsui (kozy_kekyo)
 
-- 🔭 I’m a self-employed `Functional runtime engineer`.
-- 🌱 I’m a Master of Arts and Science degree.
-- 👯 I’m looking for a job.
-- 📫 How to reach me in Fediverse: Mastodon [@kekyo@mastodon.sdf.org](https://mastodon.sdf.org/@kekyo) (English) / Misskey [@kekyo@mi.kekyo.net](https://mi.kekyo.net/@kekyo) (Japanese)
-- 😄 English nickname's `kozy`, pronouns same as `cozy`. Japanese nickname's `kekyo` (I feel it pronounce's bit difficult :)
-- ⚡ Fun fact: A bicycle rider. I'm good at long riding, maybe called `randonner`.
-
 Hi! my name is Kouji Matsui. Please call me kozy (pronounce same as `cozy`)
 I'm an functional runtime engineer.
+
+I spend most of my waking hours living within code spaces. Right now, I'm wandering through the world of TypeScript.
 
 Most of the showcases below were created because they were needed for paid work.
 
