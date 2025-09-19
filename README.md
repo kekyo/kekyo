@@ -50,7 +50,7 @@ Most of the showcases below were created because they were needed for (closed) p
   </a>
 </p>
 
-# Active/showcase projects (.NET)
+# Showcase projects (.NET)
 
 <p>
   <a href="https://github.com/kekyo/IL2C">
