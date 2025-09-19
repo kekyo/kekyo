@@ -8,7 +8,7 @@ I'm an functional runtime engineer.
 I spend most of my waking hours living within code spaces. Right now, I'm wandering through the world of TypeScript.
 That said, I'm actually folding origami with backend systems, language frameworks, and library design—not UI work.
 
-My motifs are often RED simply because I like burning red (There's no political meaning behind it.)
+My motifs are often "RED" simply because I like burning red🔥 (There's no political meaning behind it.)
 
 Most of the showcases below were created because they were needed for (closed) paid work.
 
