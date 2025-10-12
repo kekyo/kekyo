@@ -52,6 +52,12 @@ Most of the showcases below were created because they were needed for (closed) p
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/kekyo/dir4json">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=dir4json&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
 # Showcase projects (.NET)
 
 <p>
