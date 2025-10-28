@@ -6,7 +6,7 @@ Hi! my name is Kouji Matsui. Please call me kozy (pronounce same as `cozy`)
 I'm an functional runtime engineer.
 
 I spend most of my waking hours living within code spaces. Right now, I'm wandering through the world of TypeScript.
-That said, I'm actually folding origami with backend systems, language frameworks, and library design—not UI work.
+That said, I'm actually folding origami with backend systems, language frameworks, and library interface design—not UI work.
 
 My motifs are often "RED" simply because I like burning red🔥 (There's no political meaning behind it.)
 
@@ -15,6 +15,15 @@ Most of the showcases below were created because they were needed for (closed) p
 ----
 
 # Active/showcase projects (TypeScript)
+
+<p>
+  <a href="https://github.com/kekyo/maplibre-gl-layers">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=maplibre-gl-layers&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/nuget-server">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=nuget-server&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
 
 <p>
   <a href="https://github.com/kekyo/typed-message">
@@ -44,15 +53,9 @@ Most of the showcases below were created because they were needed for (closed) p
 </p>
 
 <p>
-  <a href="https://github.com/kekyo/nuget-server">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=nuget-server&theme=github_dark&bg_color=00000000" />
-  </a>
   <a href="https://github.com/kekyo/prettier-max">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=prettier-max&theme=github_dark&bg_color=00000000" />
   </a>
-</p>
-
-<p>
   <a href="https://github.com/kekyo/dir4json">
     <img align="top" src="https://github-readme-stats.vercel.app/api/pin?username=kekyo&repo=dir4json&theme=github_dark&bg_color=00000000" />
   </a>
