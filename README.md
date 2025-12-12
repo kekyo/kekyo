@@ -186,6 +186,15 @@ Most of the showcases below were created because they were needed for (closed) p
 # Small scripts / tools
 
 <p>
+  <a href="https://github.com/kekyo/scheme-cd-ripper">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=scheme-cd-ripper&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/ga_runner">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=ga_runner&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/kekyo/fdk-aac-win32-builder">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=fdk-aac-win32-builder&theme=github_dark&bg_color=00000000" />
   </a>
@@ -198,12 +207,6 @@ Most of the showcases below were created because they were needed for (closed) p
   <a href="https://github.com/kekyo/gcc-toolchain">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=gcc-toolchain&theme=github_dark&bg_color=00000000" />
   </a>
-  <a href="https://github.com/kekyo/ga_runner">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=ga_runner&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
   <a href="https://github.com/kekyo/spigot-builder">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=spigot-builder&theme=github_dark&bg_color=00000000" />
   </a>
