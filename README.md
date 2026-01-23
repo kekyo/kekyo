@@ -26,24 +26,6 @@ Most of the showcases below were created because they were needed for (closed) p
 </p>
 
 <p>
-  <a href="https://github.com/kekyo/typed-message">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=typed-message&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/async-primitives">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=async-primitives&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/sublimity-rpc">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=sublimity-rpc&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/screw-up">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=screw-up&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
   <a href="https://github.com/kekyo/funcity">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=funcity&theme=github_dark&bg_color=00000000" />
   </a>
@@ -53,11 +35,29 @@ Most of the showcases below were created because they were needed for (closed) p
 </p>
 
 <p>
+  <a href="https://github.com/kekyo/typed-message">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=typed-message&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/async-primitives">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=async-primitives&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/prettier-max">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=prettier-max&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/screw-up">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=screw-up&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/kekyo/tar-vern">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=tar-vern&theme=github_dark&bg_color=00000000" />
   </a>
-  <a href="https://github.com/kekyo/prettier-max">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=prettier-max&theme=github_dark&bg_color=00000000" />
+  <a href="https://github.com/kekyo/sublimity-rpc">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=sublimity-rpc&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
