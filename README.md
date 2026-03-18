@@ -20,8 +20,17 @@ Most of the showcases below were created because they were needed for (closed) p
   <a href="https://github.com/kekyo/maplibre-gl-layers">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=maplibre-gl-layers&theme=github_dark&bg_color=00000000" />
   </a>
+  <a href="https://github.com/kekyo/massive-sprites">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=massive-sprites&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/kekyo/nuget-server">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=nuget-server&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/emsdk-env">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=emsdk-env&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
@@ -40,12 +49,6 @@ Most of the showcases below were created because they were needed for (closed) p
   </a>
   <a href="https://github.com/kekyo/async-primitives">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=async-primitives&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/emsdk-env">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=emsdk-env&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
