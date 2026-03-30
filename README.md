@@ -90,6 +90,88 @@ Most of the showcases below were created because they were needed for (closed) p
   </a>
 </p>
 
+----
+
+# Small scripts / tools
+
+<p>
+  <a href="https://github.com/kekyo/ga_runner">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=ga_runner&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/nginx-webdav-temporary">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=nginx-webdav-temporary&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/fdk-aac-win32-builder">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=fdk-aac-win32-builder&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/qemu-debian-mipsel-setup">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=qemu-debian-mipsel-setup&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/spigot-builder">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=spigot-builder&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/gcc-toolchain">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=gcc-toolchain&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+----
+
+# IoT / Hardware design
+
+<p>
+  <a href="https://github.com/kekyo/Pixy">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=Pixy&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/ExtremeFeedbackDevice">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=ExtremeFeedbackDevice&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/Spartan2Bone">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=Spartan2Bone&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/PGA44DIP44">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=PGA44DIP44&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/PedestrianController">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=PedestrianController&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/BrainPadWiFi">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=BrainPadWiFi&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/MeowLTE">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=MeowLTE&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/OpenOCDonMinGW">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=OpenOCDonMinGW&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kekyo/esp-wrover-kit-lcd-demo">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=esp-wrover-kit-lcd-demo&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/EaglePanelizer">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=EaglePanelizer&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+----
+
 # Showcase projects (.NET)
 
 <p>
@@ -181,7 +263,7 @@ Most of the showcases below were created because they were needed for (closed) p
 
 ----
 
-# Conceptual / Early stage
+# Conceptual / Early stage (.NET)
 
 <p>
   <a href="https://github.com/kekyo/FlyFlint">
@@ -204,83 +286,6 @@ Most of the showcases below were created because they were needed for (closed) p
 <p>
   <a href="https://github.com/kekyo/Compat">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=Compat&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-----
-
-# Small scripts / tools
-
-<p>
-  <a href="https://github.com/kekyo/ga_runner">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=ga_runner&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/gcc-toolchain">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=gcc-toolchain&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/fdk-aac-win32-builder">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=fdk-aac-win32-builder&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/qemu-debian-mipsel-setup">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=qemu-debian-mipsel-setup&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/spigot-builder">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=spigot-builder&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-----
-
-# IoT / Hardware design
-
-<p>
-  <a href="https://github.com/kekyo/Pixy">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=Pixy&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/ExtremeFeedbackDevice">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=ExtremeFeedbackDevice&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/Spartan2Bone">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=Spartan2Bone&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/PGA44DIP44">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=PGA44DIP44&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/PedestrianController">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=PedestrianController&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/BrainPadWiFi">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=BrainPadWiFi&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/MeowLTE">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=MeowLTE&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/OpenOCDonMinGW">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=OpenOCDonMinGW&theme=github_dark&bg_color=00000000" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/kekyo/esp-wrover-kit-lcd-demo">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=esp-wrover-kit-lcd-demo&theme=github_dark&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/kekyo/EaglePanelizer">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=EaglePanelizer&theme=github_dark&bg_color=00000000" />
   </a>
 </p>
 
