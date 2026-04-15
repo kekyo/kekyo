@@ -85,6 +85,13 @@ Most of the showcases below were created because they were needed for (closed) p
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/kekyo/modesta">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=modesta&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+
 # Active/showcase projects (Native)
 
 <p>
