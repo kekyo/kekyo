@@ -98,6 +98,15 @@ Most of the showcases below were created because they were needed for (closed) p
 # Active/showcase projects (Native)
 
 <p>
+  <a href="https://github.com/kekyo/cardio">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=cardio&theme=github_dark&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/kekyo/tra-ffic">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=tra-ffic&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/kekyo/scheme-cd-ripper">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=scheme-cd-ripper&theme=github_dark&bg_color=00000000" />
   </a>
