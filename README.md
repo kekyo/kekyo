@@ -98,6 +98,9 @@ Most of the showcases below were created because they were needed for (closed) p
   <a href="https://github.com/kekyo/resolved-killer">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=resolved-killer&theme=github_dark&bg_color=00000000" />
   </a>
+  <a href="https://github.com/kekyo/agent-rover">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=agent-rover&theme=github_dark&bg_color=00000000" />
+  </a>
 </p>
 
 
