@@ -111,7 +111,7 @@ Most of the showcases below were created because they were needed for (closed) p
 
 <p>
   <a href="https://github.com/kekyo/elder-terms">
-    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=elder-terms"&theme=github_dark&bg_color=00000000" />
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=elder-terms&theme=github_dark&bg_color=00000000" />
   </a>
   <a href="https://github.com/kekyo/libxyzm">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=libxyzm&theme=github_dark&bg_color=00000000" />
