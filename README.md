@@ -128,6 +128,12 @@ Most of the showcases below were created because they were needed for (closed) p
 </p>
 
 <p>
+  <a href="https://github.com/kekyo/xpilot-infinity">
+    <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=xpilot-infinity&theme=github_dark&bg_color=00000000" />
+  </a>
+</p>
+
+<p>
   <a href="https://github.com/kekyo/scheme-cd-ripper">
     <img align="top" src="https://github-readme-stats-nu-five-18.vercel.app/api/pin?username=kekyo&repo=scheme-cd-ripper&theme=github_dark&bg_color=00000000" />
   </a>
